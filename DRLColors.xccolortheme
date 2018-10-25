@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DVTConsoleDebuggerInputTextColor</key>
+	<string>0.437649 0.509511 0.517715 1</string>
+	<key>DVTConsoleDebuggerInputTextFont</key>
+	<string>SFMono-Regular - 13.0</string>
+	<key>DVTConsoleDebuggerOutputTextColor</key>
+	<string>0.437649 0.509511 0.517715 1</string>
+	<key>DVTConsoleDebuggerOutputTextFont</key>
+	<string>SFMono-Regular - 13.0</string>
+	<key>DVTConsoleDebuggerPromptTextColor</key>
+	<string>0.317071 0.437736 1 1</string>
+	<key>DVTConsoleDebuggerPromptTextFont</key>
+	<string>SFMono-Regular - 13.0</string>
+	<key>DVTConsoleExectuableInputTextColor</key>
+	<string>0.437649 0.509511 0.517715 1</string>
+	<key>DVTConsoleExectuableInputTextFont</key>
+	<string>SFMono-Regular - 13.0</string>
+	<key>DVTConsoleExectuableOutputTextColor</key>
+	<string>0.437649 0.509511 0.517715 1</string>
+	<key>DVTConsoleExectuableOutputTextFont</key>
+	<string>SFMono-Regular - 13.0</string>
+	<key>DVTConsoleTextBackgroundColor</key>
+	<string>0.0980392 0.0980392 0.0980392 1</string>
+	<key>DVTConsoleTextInsertionPointColor</key>
+	<string>0.580743 0.672002 0.672002 1</string>
+	<key>DVTConsoleTextSelectionColor</key>
+	<string>0.32076 0.406575 0.440224 0.45</string>
+	<key>DVTDebuggerInstructionPointerColor</key>
+	<string>0.653506 0.472476 0 1</string>
+	<key>DVTLineSpacing</key>
+	<real>1.1000000238418579</real>
+	<key>DVTMarkupTextBackgroundColor</key>
+	<string>0.170196 0.170196 0.170196 1</string>
+	<key>DVTMarkupTextBorderColor</key>
+	<string>0.23658 0.23658 0.23658 1</string>
+	<key>DVTMarkupTextCodeFont</key>
+	<string>SFMono-Regular - 12.0</string>
+	<key>DVTMarkupTextEmphasisColor</key>
+	<string>0.580743 0.672002 0.672002 1</string>
+	<key>DVTMarkupTextEmphasisFont</key>
+	<string>.SFNSText-Italic - 12.0</string>
+	<key>DVTMarkupTextInlineCodeColor</key>
+	<string>0.580743 0.672002 0.672002 0.7</string>
+	<key>DVTMarkupTextLinkColor</key>
+	<string>0.32076 0.406575 0.440224 1</string>
+	<key>DVTMarkupTextLinkFont</key>
+	<string>.SFNSText - 12.0</string>
+	<key>DVTMarkupTextNormalColor</key>
+	<string>0.580743 0.672002 0.672002 1</string>
+	<key>DVTMarkupTextNormalFont</key>
+	<string>.SFNSText - 12.0</string>
+	<key>DVTMarkupTextOtherHeadingColor</key>
+	<string>0.580743 0.672002 0.672002 0.5</string>
+	<key>DVTMarkupTextOtherHeadingFont</key>
+	<string>.SFNSText - 16.8</string>
+	<key>DVTMarkupTextPrimaryHeadingColor</key>
+	<string>0.580743 0.672002 0.672002 1</string>
+	<key>DVTMarkupTextPrimaryHeadingFont</key>
+	<string>.SFNSDisplay - 28.8</string>
+	<key>DVTMarkupTextSecondaryHeadingColor</key>
+	<string>0.580743 0.672002 0.672002 1</string>
+	<key>DVTMarkupTextSecondaryHeadingFont</key>
+	<string>.SFNSDisplay - 21.6</string>
+	<key>DVTMarkupTextStrongColor</key>
+	<string>0.580743 0.672002 0.672002 1</string>
+	<key>DVTMarkupTextStrongFont</key>
+	<string>.SFNSText-Bold - 12.0</string>
+	<key>DVTScrollbarMarkerAnalyzerColor</key>
+	<string>0.403922 0.372549 1 1</string>
+	<key>DVTScrollbarMarkerBreakpointColor</key>
+	<string>0.290196 0.290196 0.968627 1</string>
+	<key>DVTScrollbarMarkerDiffColor</key>
+	<string>0.556863 0.556863 0.556863 1</string>
+	<key>DVTScrollbarMarkerDiffConflictColor</key>
+	<string>0.968627 0.290196 0.290196 1</string>
+	<key>DVTScrollbarMarkerErrorColor</key>
+	<string>0.968627 0.290196 0.290196 1</string>
+	<key>DVTScrollbarMarkerRuntimeIssueColor</key>
+	<string>0.643137 0.509804 1 1</string>
+	<key>DVTScrollbarMarkerWarningColor</key>
+	<string>0.937255 0.717647 0.34902 1</string>
+	<key>DVTSourceTextBackground</key>
+	<string>0.168627 0.192157 0.207843 1</string>
+	<key>DVTSourceTextBlockDimBackgroundColor</key>
+	<string>0.424672 0.424672 0.424672 1</string>
+	<key>DVTSourceTextCurrentLineHighlightColor</key>
+	<string>0.168627 0.192157 0.207843 1</string>
+	<key>DVTSourceTextInsertionPointColor</key>
+	<string>0.905714 0.905714 0.905714 1</string>
+	<key>DVTSourceTextInvisiblesColor</key>
+	<string>0.471235 0.471326 0.47122 1</string>
+	<key>DVTSourceTextSelectionColor</key>
+	<string>0.0674944 0.16377 0.235045 1</string>
+	<key>DVTSourceTextSyntaxColors</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>0.792157 0.45098 0.290196 1</string>
+		<key>xcode.syntax.character</key>
+		<string>0.552941 0.509804 0.768627 1</string>
+		<key>xcode.syntax.comment</key>
+		<string>0.324672 0.280797 0.379077 1</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>0.324672 0.280797 0.379077 1</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>0.4 0.356863 0.454902 1</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>0.498039 0.803922 0.533333 1</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>0.447059 0.741176 0.87451 1</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>0.498039 0.803922 0.533333 1</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>0.447059 0.545098 0 1</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>0.498039 0.803922 0.533333 1</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>0.101961 0.454902 0.792157 1</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>0.653506 0.472476 0 1</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>0.653506 0.472476 0 1</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>0.498039 0.803922 0.533333 1</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>0.34798 0.341704 0.727421 1</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>0.498039 0.803922 0.533333 1</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>0.0745098 0.592157 0.478431 1</string>
+		<key>xcode.syntax.keyword</key>
+		<string>0.956863 0.803922 0.564706 1</string>
+		<key>xcode.syntax.number</key>
+		<string>0.552941 0.509804 0.768627 1</string>
+		<key>xcode.syntax.plain</key>
+		<string>0.45098 0.45098 0.470588 1</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>0.839216 0.619608 0.470588 1</string>
+		<key>xcode.syntax.string</key>
+		<string>0.741176 0.309804 0.14902 1</string>
+		<key>xcode.syntax.url</key>
+		<string>0.282353 0.643137 0.882353 1</string>
+	</dict>
+	<key>DVTSourceTextSyntaxFonts</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>NotoSans-Regular - 14.0</string>
+		<key>xcode.syntax.character</key>
+		<string>NotoSans-Regular - 14.0</string>
+		<key>xcode.syntax.comment</key>
+		<string>NotoSans-Regular - 14.0</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>NotoSans-Regular - 14.0</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>NotoSans-Regular - 14.0</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>NotoSans-Regular - 14.0</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>NotoSans-Regular - 14.0</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>NotoSans-Regular - 14.0</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>NotoSans-Regular - 14.0</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>NotoSans-Regular - 14.0</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>NotoSans-Regular - 14.0</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>NotoSans-Regular - 14.0</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>NotoSans-Regular - 14.0</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>NotoSans-Regular - 14.0</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>NotoSans-Regular - 14.0</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>NotoSans-Regular - 14.0</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>NotoSans-Regular - 14.0</string>
+		<key>xcode.syntax.keyword</key>
+		<string>NotoSans-Regular - 14.0</string>
+		<key>xcode.syntax.number</key>
+		<string>NotoSans-Regular - 14.0</string>
+		<key>xcode.syntax.plain</key>
+		<string>NotoSans-Regular - 14.0</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>NotoSans-Regular - 14.0</string>
+		<key>xcode.syntax.string</key>
+		<string>NotoSans-Regular - 14.0</string>
+		<key>xcode.syntax.url</key>
+		<string>NotoSans-Regular - 14.0</string>
+	</dict>
+</dict>
+</plist>
