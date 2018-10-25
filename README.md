@@ -1,5 +1,6 @@
 # DRL Xcodetheme
 
+![DRL Xcodetheme](https://github.com/durul/Xcodetheme/blob/master/example.png?raw=true "DRL Xcodetheme Screenshot")
 
 ## Installation
 
