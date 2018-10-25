@@ -1,5 +1,5 @@
-# Xcodetheme
-This repository contains 🎨 My Xcode theme that I use. It is compatible with all versions of Xcode.
+# DRL Xcodetheme
+
 
 ## Installation
 
